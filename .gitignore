@@ -1,0 +1,5 @@
+# Ignore all subdirectories
+*/*
+
+# ...except for the demo folder
+!2A97516C354B68848CDBD8F54A226A0A55B21ED138E207AD6C5CBB9C00AA5AEA/
